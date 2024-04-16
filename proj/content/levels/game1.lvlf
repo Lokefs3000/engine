@@ -1,0 +1,14 @@
+MainCamera{
+    Type: "Camera"
+    Pos: [0f,0f,0f]
+    Rot: [0f,0f,0f,1f]
+    Sca: [1f,1f,1f]
+    Fov: 70f
+}
+Plane{
+    Type: "Mesh"
+    Pos: [0f,0f,0f]
+    Rot: [0f,0f,0f,1f]
+    Sca: [1f,1f,1f]
+    Mesh: 1511763564
+}
